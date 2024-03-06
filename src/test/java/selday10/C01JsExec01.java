@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import utilities.JsUtilities;
 import utilities.TestBase;
 
-public class C01JsExcuter extends TestBase {
+public class C01JsExec01 extends TestBase {
 
 
 

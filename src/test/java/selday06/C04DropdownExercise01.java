@@ -13,7 +13,7 @@ import org.openqa.selenium.support.ui.Select;
 import java.time.Duration;
 import java.util.List;
 
-public class C04DropdownExercise {
+public class C04DropdownExercise01 {
 
     /*
     Launch the browser.
@@ -65,7 +65,7 @@ public class C04DropdownExercise {
         Assert.assertTrue(op.get(2).isSelected());
 
         se.selectByValue("saab");
-        assertEquals();
+        //assertEquals();
 
 
         //se.deselectByValue("saab");

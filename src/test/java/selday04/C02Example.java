@@ -1,4 +1,4 @@
-package selday4;
+package selday04;
 
 import org.junit.Test;
 import org.openqa.selenium.By;

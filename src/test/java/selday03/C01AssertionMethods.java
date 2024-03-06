@@ -1,4 +1,4 @@
-package selday3;
+package selday03;
 import org.junit.Assert;
 import org.junit.Test;
 
