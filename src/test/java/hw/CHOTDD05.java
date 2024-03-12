@@ -1,6 +1,5 @@
 package hw;
 
-import net.bytebuddy.asm.Advice;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -11,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class ChallengeDay5 {
+public class CHOTDD05 {
 
 
     @Test

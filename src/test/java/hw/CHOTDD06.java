@@ -1,21 +1,18 @@
 package hw;
 
 import com.github.javafaker.Faker;
-import com.github.javafaker.PhoneNumber;
 import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
-import java.util.EnumMap;
 
-public class ChallengeOfTheDay06 {
+public class CHOTDD06 {
 
     static WebDriver driver;
 
